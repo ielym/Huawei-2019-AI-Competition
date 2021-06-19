@@ -53,8 +53,9 @@
 * 第一次参加CV比赛，完成了从小白到青铜的过度阶段，并且获得了Top 10%的成绩。再加上能够通过可视化的方式对输入图像进行直观的输入输出，对于我对CV领域的兴趣培养也是詪有帮助的，从此科研不再枯燥！卷入CV无悔~
 
 ***
-足够幸运，才能在研究生入学不久就遇见这场图像分类比赛带我走进CV的世界       
+足够幸运，才能在研究生入学不久就遇见这场图像分类比赛带我走进CV的世界     
+<img src="http://tiebapic.baidu.com/forum/pic/item/488e8495a4c27d1e504795850cd5ad6edcc43844.jpg" width="50%" style="align:center;">
 ***
 
-<img src="http://tiebapic.baidu.com/forum/pic/item/488e8495a4c27d1e504795850cd5ad6edcc43844.jpg" width="50%">
+
 
