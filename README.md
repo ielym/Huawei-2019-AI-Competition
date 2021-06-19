@@ -11,8 +11,8 @@
 输入数据格式：   
 ![alt 大雁塔](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1555605899,3822747164&fm=26&gp=0.jpg)
 
-模型输出格式：
-{
-  " result ": "景点/大雁塔"
+模型输出格式：   
+{   
+  " result ": "景点/大雁塔"   
 }
 
