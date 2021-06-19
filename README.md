@@ -9,10 +9,10 @@
 
 # 输入输出格式
 输入数据格式：   
-![alt 大雁塔](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1555605899,3822747164&fm=26&gp=0.jpg)
+![alt 仿唐三彩](https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg)
 
 输出数据格式：   
 {   
-  " result ": "景点/大雁塔"   
+  " result ": "工艺品/仿唐三彩"   
 }
 
