@@ -11,7 +11,7 @@
 <b>输入数据格式：</b>   
 ![alt 仿唐三彩](https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg)
 
-<img src="https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg" width="50%">
+<img src="https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg" width="10%">
 
 <b>输出数据格式：</b>      
 {   
