@@ -54,7 +54,9 @@
 
 ***
 足够幸运，才能在研究生入学不久就遇见这场图像分类比赛带我走进CV的世界     
-<img src="http://tiebapic.baidu.com/forum/pic/item/488e8495a4c27d1e504795850cd5ad6edcc43844.jpg" width="50%" style="align:center;">
+
+
+<img src="http://tiebapic.baidu.com/forum/pic/item/488e8495a4c27d1e504795850cd5ad6edcc43844.jpg" width="50%"">
 ***
 
 
