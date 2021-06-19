@@ -9,7 +9,7 @@
 
 # 输入输出格式
 <b>输入数据格式：</b>   
-<img src="https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg" width="30%">
+<img src="https://github.com/ielym/Huawei-2019-AI-Competition/blob/main/imgs/img_12.jpg" width="30%">     
 <b>输出数据格式：</b>      
 {   
   " result ": "工艺品/仿唐三彩"   
